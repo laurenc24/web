@@ -9,6 +9,26 @@ body
 	font-family: "Trirong", serif;
 }
 
+p
+{
+	font-size: 12px;
+}
+
+h1
+{
+	font-variant: small-caps;
+}
+
+h2
+{
+	font-variant: small-caps;
+}
+
+h2
+{
+	font-variant: small-caps;
+}
+
 .top
 {
 	background-color: #FFB6C1;
